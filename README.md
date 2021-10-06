@@ -1,3 +1,3 @@
-# Weather App using ReactJS
+# A Simple Weather App using ReactJS
 
 Link -> https://weather-for.netlify.app/
